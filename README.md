@@ -1,51 +1,29 @@
-# Remotion video
+# Skia Animations demo videos
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
-  </a>
-</p>
-
-Welcome to your Remotion project!
+This repo contains the code used to generate the demo videos for the [animations done in Skia](https://github.com/eqlion/skia-animations)
 
 ## Commands
 
 **Install Dependencies**
 
 ```console
-npm i
+yarn
 ```
 
 **Start Preview**
 
 ```console
-npm start
+yarn start
 ```
 
 **Render video**
 
 ```console
-npm run build
+yarn build
 ```
 
-**Upgrade Remotion**
+**Render all the videos**
 
 ```console
-npm run upgrade
+yarn build:all
 ```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
